@@ -1,3 +1,2 @@
-# hello-world
-practice commits and pushes and everything
-whatever
+# ERC assignment
+Hope you like it
